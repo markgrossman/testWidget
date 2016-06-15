@@ -1,7 +1,7 @@
 {
-	"name":"Give It Another Go!",
-	"id":"one_more_time",
+	"name":"Seriously This Time",
+	"id":"this_time",
 	"html_template":"foo.html",
-	"client_script":"foo.js",
-	"server_script":"bar.js"
+	"client_script":"bar.js",
+	"server_script":"foo.js"
 }
