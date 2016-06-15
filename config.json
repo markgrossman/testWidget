@@ -1,6 +1,6 @@
 {
-	"name":"Seriously This Time",
-	"id":"this_time",
+	"name":"Meh",
+	"id":"meh",
 	"html_template":"foo.html",
 	"client_script":"bar.js",
 	"server_script":"foo.js"
