@@ -1,6 +1,6 @@
 {
-	"name":"Test Import Widget",
-	"id":"test_import_widget",
+	"name":"Give It Another Go!",
+	"id":"one_more_time",
 	"html_template":"foo.html",
 	"client_script":"foo.js",
 	"server_script":"bar.js"
